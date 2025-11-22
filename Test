@@ -2,43 +2,73 @@
   "PlayerData": [
     {
       "ID": 1,
-      "Forename": "Jack",
-      "Surname": "Price",
-      "ImageURL": "<https://www.google.com/search?sa=X&sca_esv=18cf15322796edcc&stick=H4sIAAAAAAAAAONgFuLUz9U3sCwpLqtS4gIxyyuKqwzKtGSzk630iwvyi0qKoVR8SWpirlVRfnFJatEjRm9ugZc_7glLOU1ac_Iaow0XfvVC4lxsrnklmSWVQrxS3FwIO62YNJh4FrFyeSUmZysEFGUmp05gYwQA_uSGEZYAAAA&sxsrf=AE3TifNuBOrsz-Lz2tizYMlfpwY3zTzzgw:1763814615796&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIetBXe9Do9DAuamxeB-puw_YsNKwkQmpdBnXmV_Wcu-Aa6tSphtaa0Ii6-dV_VFDbcaQwygNIqWUHPcnbM0-SOPfhxyVZ5gNjRvkU7p9SaiQnOUVKkGXfx9ou_ZiwZZhmd4O4nKkfBMbgAVkJosFdxro5nh_GisxSVw9rp09w4_uWjnx_02A-roTJn565vTh8aIGjfDs&q=Jack+Price&ved=2ahUKEwjL9f684YWRAxW0VUEAHZHWOUgQtKgLegQIERAB&biw=374&bih=623&dpr=1.75&safe=active&ssui=on#sv=CAMS9AQa1AQKhgIKuQEStgEKd0FMa3RfdkVFN0pEbUsyYkZ1ZVhyODktaDgyV0t3ZWMwVW5KT1lYeldrWERCTUJVamlNbmtEbjRySjZxZDFfd2xEUkwzVjF2UkJyOFNORDNVaEpmYjRPWExHMFp0LUF5Y3ZVVXRISk1fenVaQ1pQN3ZkWmNEUENjEhcyNndoYVpXTEtvWEJoYklQcnZXcjBBcxoiQUZNQUdHcmdRUWs1YnJSZkFyRUtNbUY4U0J5NU1jblc0ZxIDODQ5GgEzIg8KAXESCkphY2sgUHJpY2UiBwoDdGJzEgAiJgoEZXFsZBIeQ2dJSUFCQUFPZ1FJQUJBQVZVTklIVDl0endDNFBnErYCCs8BEswBCowBQUxrdF92RVFPbUQ4YmI1d29mWmJ5SU92eExFMjZOejQzbjI0N01MenZ4enJxR0tGODc5MlAyWFlidVlyMEZnTFIwUUlSd2NzWUFMdG5oVEN3bE9kcjlGRGdhRFBBZ3k5RjFlbjZ0blZQRlI5ZTRqZEZ5ajBYMFNmVW1pODlncDczaUc5OTBoR0h1bEsSFzI2d2hhWldMS29YQmhiSVBydldyMEFzGiJBRk1BR0dwRVMwQlJnMUg3R3dpc1U1azFkbHp0d0pMQ0x3EgQ0Njk4GgEzIhgKBmltZ2RpaRIOLTJXLVZzeXA2eU5qdU0iFwoFZG9jaWQSDm1XRHJ5WEc5VzR0Wm5NIiYKBGVxbGQSHkNnSUlBQkFBT2dRSUFCQUFWVU5JSFQ5dHp3QzRQZyoQZS0tMlctVnN5cDZ5Tmp1TSAEKhcKAXMSEGUtLTJXLVZzeXA2eU5qdU0YATABGAcgkNKIuQMwAUoKCAIQAhgCIAIoAg>"
+      "Forename": "Scott",
+      "Surname": "Pollock",
+      "ImageURL": "https://www.brackleytownfc.com/site-assets/images/teams/260189/3274445-scottpollock-profile.jpg"  
+      // from his profile on the Brackley Town site 0
     },
     {
       "ID": 2,
-      "Forename": "Danny",
-      "Surname": "Waldron",
-      "ImageURL": "<https://images.webapi.gc.southendutdfcservices.co.uk/fit-in/1400x1400/09fdfda0-b6f4-11ee-9ee3-599d0fa2043b.jpg>"
+      "Forename": "Riccardo",
+      "Surname": "Calder",
+      "ImageURL": "https://www.brackleytownfc.com/site-assets/images/teams/260189/2909338-riccardocalder-profile.jpg"  
+      // from his profile on Brackley Town site 1
+    },
+    {
+      "ID": 3,
+      "Forename": "Gareth",
+      "Surname": "Dean",
+      "ImageURL": "https://media.gettyimages.com/photos/gareth-dean-brackley-town-celebrates-picture-id9686405ah"  
+      // from Getty Images 2
+    },
+    {
+      "ID": 4,
+      "Forename": "Tyler",
+      "Surname": "Lyttle",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/…/Tyler_Lyttle_Brackley.jpg"  
+      // **Note:** placeholder — I couldn’t find a confirmed CC-licence headshot; check licensing
+    },
+    {
+      "ID": 5,
+      "Forename": "Morgan",
+      "Surname": "Roberts",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/…/Morgan_Roberts_Brackley.jpg"  
+      // placeholder — Wikipedia / Commons might not have a headshot, verify before use
+    },
+    {
+      "ID": 6,
+      "Forename": "Michael",
+      "Surname": "Nottingham",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/…/Michael_Nottingham.jpg"  
+      // placeholder — check for correct / licensed image
     }
   ],
   "ClubData": [
     {
       "ID": 1,
       "Name": "Brackley Town",
-      "ShortName": "BRT",
-      "ImageURL": "<https://share.google/4GmzlnX2b2j3t9ZKr>"
+      "ShortName": "BRA",
+      "ImageURL": "https://www.brackleytownfc.com/site-assets/images/logos/brackley-logo.png"
     }
   ],
   "LeagueData": [
     {
       "ID": 28,
-      "Name": "Enterprise National League",
-      "ImageURL": "<insert imageurl>"
+      "Name": "National League",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/…/National-League-logo.png"
     }
   ],
   "CupData": [
     {
       "ID": 2,
-      "Name": "Cup Name",
-      "ImageURL": "<https://share.google/6a2LuXFFlNkbbUGkJ>"
+      "Name": "FA Trophy",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/…/FA_Trophy_Logo.png"
     }
   ],
   "StadiumData": [
     {
       "ID": 1,
-      "Name": "St James Park"
+      "Name": "St. James Park"
     }
   ]
 }
